@@ -11,9 +11,6 @@ Building full compilation pipelines from lexical analysis to code generation.
 Systems Programming (C/C++)
 Memory management, stack-based architectures, virtual machines, and performance-oriented design.
 
-Low-Level Graphics & Game Development
-Real-time rendering, memory-mapped I/O, collision systems, and game loop architecture.
-
 🧠 Featured Projects
 
 🔹 Jack Compiler (C++)

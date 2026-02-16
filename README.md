@@ -11,32 +11,10 @@ Building full compilation pipelines from lexical analysis to code generation.
 Systems Programming (C/C++)
 Memory management, stack-based architectures, virtual machines, and performance-oriented design.
 
-🧠 Featured Projects
-
-🔹 Jack Compiler (C++)
-
-Modular compiler implementing tokenizer, recursive descent parser, and VM code generator.
-
-🔹 VM Translator (C++)
-
-Stack-based VM-to-Hack assembly translator modeling virtual machine architecture.
-
-🔹 Jack OS
-
-Custom operating system libraries including heap allocator, graphics engine, and standard library modules.
-
-🔹 Space Fighter
-
-Hardware-level arcade game with direct memory-mapped screen manipulation and custom collision logic.
-
-🔹 Vstring (C)
-
-Dynamic string library implementing safe resizing and manual memory management.
-
 🛠 Tech Stack
 
 Languages:
-C, C++, Jack (Nand2Tetris), Assembly
+C, C++, Assembl(x86_64)
 
 Core Areas:
 
@@ -58,8 +36,8 @@ Strengthening systems design fundamentals
 
 Building performance-conscious software
 
-📫 Connect
+Next project will be a Game boy emulator.
 
-GitHub: https://github.com/ameerikbal98
+📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/ameerikbal/

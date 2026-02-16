@@ -65,4 +65,4 @@ Building performance-conscious software
 
 GitHub: https://github.com/ameerikbal98
 
-LinkedIn: (add your link here)
+LinkedIn: https://www.linkedin.com/in/ameerikbal/

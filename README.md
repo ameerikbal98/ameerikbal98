@@ -15,6 +15,7 @@ Low-Level Graphics & Game Development
 Real-time rendering, memory-mapped I/O, collision systems, and game loop architecture.
 
 🧠 Featured Projects
+
 🔹 Jack Compiler (C++)
 
 Modular compiler implementing tokenizer, recursive descent parser, and VM code generator.

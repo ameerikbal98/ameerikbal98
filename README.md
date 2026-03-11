@@ -1,40 +1,10 @@
-Hi, I'm Ameer Ikbal 👋
+Hi, I'm Ameer Ikbal.
 
-Systems-focused developer passionate about compilers, operating systems, and low-level game development.
-I enjoy building software close to the hardware — from memory allocators to full compilation pipelines.
+I am a computer programmer and I enjoy physically writing code. I am interested in low-level, performance-oriented programming. I have a special focus on C programming and I also like to wield C++ often. I am currently focusing on understanding low-level hardware and exploring the C programming language and x86_64 assembly. I am very much interested in working with OS kernels, game development, and compilers.
 
-🚀 What I Work On
+I also enjoy the human aspect of programming very much, such as how the code I write may be used by other people and the mutual understanding it creates. I can write well-tested code by unit testing every function I write. I was always fascinated by computers and how they actually help humans, whether by assisting or through entertainment.
 
-Compilers & Language Tooling
-Building full compilation pipelines from lexical analysis to code generation.
-
-Systems Programming (C/C++)
-Memory management, stack-based architectures, virtual machines, and performance-oriented design.
-
-🛠 Tech Stack
-
-Languages:
-C, C++, Assembly(x86_64)
-
-Core Areas:
-
-Compiler Design
-
-Data Structures & Algorithms
-
-Memory Management
-
-Operating Systems Concepts
-
-Game Engine Architecture
-
-🎯 Current Focus
-
-Deepening understanding of systems and underline hardware
-
-Strengthening systems design fundamentals
-
-Building performance-conscious software
+Nowadays, with the introduction of AI, we're losing the human touch in the computing space and that deeply worries me. But it is probably an opportunity for humans; so, even though I can work with AI, my skill with AI is limited, but I can use it just fine.
 
 📫 Connect
 

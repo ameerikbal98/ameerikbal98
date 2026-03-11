@@ -14,7 +14,7 @@ Memory management, stack-based architectures, virtual machines, and performance-
 🛠 Tech Stack
 
 Languages:
-C, C++, Assembl(x86_64)
+C, C++, Assembly(x86_64)
 
 Core Areas:
 
@@ -30,13 +30,11 @@ Game Engine Architecture
 
 🎯 Current Focus
 
-Deepening understanding of compilers and language runtimes
+Deepening understanding of systems and underline hardware
 
 Strengthening systems design fundamentals
 
 Building performance-conscious software
-
-Next project will be a Game boy emulator.
 
 📫 Connect
 
